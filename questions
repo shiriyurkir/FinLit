@@ -1,6 +1,11 @@
 import java.util.Scanner;
 public static void Main(String[] args) {
     Scanner in = new Scanner(System.in);
-    int blah = in.nextInt();
-    System.out.println(blah);
+    int i;
+    String[] question = ["What is the square root of 49?", "What is a stock?", "Where am I?"];
+    for(i=0, i<questions.length()-1, i++) {
+        
+    }
+    System.out.println();
+    String ans = in.next();
 }
